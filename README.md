@@ -21,16 +21,11 @@
 ├── arduion_pid
 │   ├── PID.cpp
 │   └── PID.h
-├── github_pid
-│   └── pid_py
-│       └── simple-pid
 ├── images
 │   ├── pid.jpg
 │   └── pid2.png
-├── pid.txt
 ├── py_pid
 │   └── newPID.py
-└── tree.txt
-    
+└── pid.txt
 ![image1](https://github.com/omega-Lee/pid_code/tree/master/images/pid.jpg)  
 ![image2](https://github.com/omega-Lee/pid_code/tree/master/images/pid2.png)
