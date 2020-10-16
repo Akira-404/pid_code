@@ -1,7 +1,9 @@
-#代码在win10 x64下编译通过，在python中需要调用matplotlib显示可视化图像
+# 代码在win10 x64下编译通过，在python中需要调用matplotlib显示可视化图像
+# 欢迎给小星星 :bowtie :bowtie
 
 ## 目录树
 # pid_code
+
 ├── C_pid
 │   ├── c_pid1
 │   │   ├── main.c
@@ -30,8 +32,5 @@
 │   └── newPID.py
 └── tree.txt
     
-    
-    
-    
-![image1](/home/picture/1.png)
-![image2](/home/picture/1.png)
+![image1](https://github.com/omega-Lee/pid_code/tree/master/images/pid.jpg)  
+![image2](https://github.com/omega-Lee/pid_code/tree/master/images/pid2.png)
