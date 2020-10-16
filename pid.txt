@@ -1,0 +1,11 @@
+previous_error=0
+integral=0
+
+loop:
+	error=setpoint-measurd_value
+	integral+=error*dt
+	derivative=(error-previous_error)/dt
+	output=Kp*error+Ki*integral+Kd*derivative
+	previous_error=error
+	wait(dt)
+	goto loop
